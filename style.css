@@ -22,7 +22,7 @@ div {
 }
 @media (max-width: 400px) {
   body {
-    background-color:orange;
+    background-color:red;
   }
 }
 
@@ -34,5 +34,4 @@ div {
   margin-right: 0px;
   margin-left: 0px;
   padding: 0px;
-}
 }
