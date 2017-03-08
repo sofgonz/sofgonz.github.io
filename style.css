@@ -1,6 +1,10 @@
 h1 {
   font-size: 40px;
 }
+
+h1 {
+  color: #ff6600;
+}
 span { font-weight: bold; }
 div {
   display: inline-block;
