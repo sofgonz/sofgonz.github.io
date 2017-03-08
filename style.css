@@ -1,0 +1,15 @@
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}
+h1 {
+  font-size: 40px;
+}
+span { font-weight: bold; }
