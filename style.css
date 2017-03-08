@@ -20,7 +20,7 @@ div {
 }
 @media (max-width: 400px) {
   body {
-    background-color:red;
+    background-color:yellow;
   }
 }
 
