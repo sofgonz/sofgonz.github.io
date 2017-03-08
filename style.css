@@ -3,6 +3,7 @@ h1 {
 }
 
 h1 {
+ background color: green;
   color: #ff6600;
 }
 h3 {
@@ -10,6 +11,7 @@ h3 {
 }
 span { font-weight: bold; }
 div {
+  background color: lightblue;
   display: inline-block;
   width: 40%
   border: 1px solid black;
@@ -35,3 +37,5 @@ div {
 body {
     background-color: #cccccc;
 }
+p {
+  background color: yellow; 
