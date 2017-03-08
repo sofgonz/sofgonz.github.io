@@ -5,6 +5,9 @@ h1 {
 h1 {
   color: #ff6600;
 }
+h3 {
+  color: #ff6600;
+}
 span { font-weight: bold; }
 div {
   display: inline-block;
@@ -30,6 +33,5 @@ div {
 }
 }
 body {
-    background-image: url();
     background-color: #cccccc;
 }
